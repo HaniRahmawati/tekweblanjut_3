@@ -16,8 +16,8 @@ echo "<tr>
 		if (isset($_POST['C/C++'])){
 			echo $_POST['C/C++']."<BR>";
 		}
-		if (isset($_POST['VISUAL BASIC'])){
-			echo $_POST['VISUAL BASIC']."<BR>";
+		if (isset($_POST['VISUALBASIC'])){
+			echo $_POST['VISUALBASIC']."<BR>";
 		}
 	}; "</td></tr>";
 	
